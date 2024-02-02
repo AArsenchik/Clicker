@@ -1,2 +1,1 @@
-# 🎃
-The pumpkin clicker
+🎃
