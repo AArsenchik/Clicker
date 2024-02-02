@@ -1,2 +1,2 @@
-# Clicker
+# 🎃
 The pumpkin clicker
